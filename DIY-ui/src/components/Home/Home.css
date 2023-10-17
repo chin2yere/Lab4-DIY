@@ -1,0 +1,14 @@
+.top-container{
+    color:white;
+    margin-left: 100px;
+    
+    align-self: flex-start;
+    
+    
+}
+
+body{
+    background-image: url("https://images.clickdealer.co.uk/blog/3524/featured_images/569c73351dda8fc4e5a990d36820137a.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}

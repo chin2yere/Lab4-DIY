@@ -1,0 +1,56 @@
+[
+    {
+       
+        "owner": "Cain meyers",
+        "convertible": true,
+        "exterior": "red",
+        "wheels": "alloy",
+        "roof": "soft",
+        "interior": "red leather"
+    },
+    {
+       
+        "owner": "John Doe",
+        "convertible": false,
+        "exterior": "blue",
+        "wheels": "steel",
+        "roof": "hard",
+        "interior": "grey cloth"
+    },
+    {
+        
+        "owner": "Caryl peterson",
+        "convertible": true,
+        "exterior": "silver",
+        "wheels": "alloy",
+        "roof": "soft",
+        "interior": "brown leather"
+    },
+    {
+        
+        "owner": "Jim crewwed",
+        "convertible": false,
+        "exterior": "black",
+        "wheels": "Pumped",
+        "roof": "hard",
+        "interior": "red leather"
+    },
+    {
+       
+        "owner": "Somebody jim",
+        "convertible": true,
+        "exterior": "white",
+        "wheels": "steel",
+        "roof": "soft",
+        "interior": "grey cloth"
+    },
+    {
+       
+        "owner": "James somith",
+        "convertible": false,
+        "exterior": "green",
+        "wheels": "pumped",
+        "roof": "hard",
+        "interior": "brown leather"
+    }
+]
